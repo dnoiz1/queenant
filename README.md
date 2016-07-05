@@ -27,7 +27,7 @@ This was tested and confirmed on an Antminer S5 with all available firmware rele
 
 # &then?
 
-It's also interesting to note 2 other things about the Antminer firmware:
+It's also interesting to note a few other things about the Antminer firmware:
 - cgminer is running as root, in screen, and RPC can write files.
 - updating the admin password via LuCi web interface does not update system accounts
 - root as ssh is open (default pw: admin)
